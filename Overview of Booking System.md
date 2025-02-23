@@ -12,3 +12,8 @@ Design and implementation of a Hotel Reservation Application. The main purpose o
 
 4. Confirmation of Canceled Reservation
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/ef797090-3f2e-4aea-9edf-aea539f02dba" />
+
+
+# Lemon Tree Hotel Reservation UML class diagram
+
+![image](https://github.com/user-attachments/assets/e02cb0a6-704a-47d1-87e3-21964228d75b)
